@@ -1,0 +1,28 @@
+body {
+	background-image: url("IMG_20230701_175803_430.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.item {
+	width: 457px;
+	height: 235px;
+
+}
+.tel {
+	margin-bottom: -50px;
+	margin-top: 858px;
+	margin-left: 10px;
+}
+.ins {
+	margin-bottom: -50px;
+}
+.wat{
+	margin-bottom: -50px;
+	margin-left: 10px;
+}
+.loc{
+     margin-left: 471px;
+}
+.pho {
+	margin-bottom: -50px;
+}
